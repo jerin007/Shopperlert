@@ -5792,7 +5792,7 @@ svg {
 
 .eventCard-group {
     margin-bottom: 8px;
-    background-color: #7000b0
+    background-color: none;
 }
 
 .eventCard-group h4 {
